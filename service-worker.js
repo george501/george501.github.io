@@ -1,0 +1,1 @@
+importScripts('https://pxl.georgy-shanin.dev.altkraft.com/service-worker.js?id=MXwx');
